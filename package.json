@@ -1,0 +1,8 @@
+{
+  "name": "helper",
+  "version": "1.0.0",
+  "description": "poc dependency",
+  "scripts": {
+    "prepare": "node ./prep.js"
+  }
+}
